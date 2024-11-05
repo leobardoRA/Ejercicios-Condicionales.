@@ -1,4 +1,4 @@
-# Solicitar dos números al usuario
+# Solicitar dos números al usuario 
 numero1 = float(input("Introduce el primer número: "))
 numero2 = float(input("Introduce el segundo número: "))
 
